@@ -6,6 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.gt {
+  margin-top: 6%;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
